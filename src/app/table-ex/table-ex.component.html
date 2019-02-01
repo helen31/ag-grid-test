@@ -1,0 +1,11 @@
+<button (click)="getSelectedRows()">Отримати вибрані рядки</button>
+<ag-grid-angular
+  #agGrid
+  [localeText]="localeText"
+  style="width: 830px; height: 500px;"
+  class="ag-theme-balham"
+  [rowData]="row"
+  [columnDefs]="column"
+  rowSelection="multiple"
+>
+</ag-grid-angular>

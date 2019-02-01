@@ -1,0 +1,6582 @@
+[
+  {
+    "id_corp": 687,
+    "id_morion": 76533,
+    "corp_name": "INVITE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3624,
+    "id_object": 1798,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 500,
+    "id_morion": 81879,
+    "corp_name": "test318",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3311,
+    "id_object": 1489,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 199,
+    "id_morion": 76533,
+    "corp_name": "Zub1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3093,
+    "id_object": 1269,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 355,
+    "id_morion": 76533,
+    "corp_name": "KOSS",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3383,
+    "id_object": 1560,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 557,
+    "id_morion": 81879,
+    "corp_name": "test293",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3410,
+    "id_object": 1587,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 37,
+    "id_morion": 138826,
+    "corp_name": "Прима Фарм ООО (Украина, Иршава)",
+    "morion_name": "Прима Фарм ООО (Украина, Иршава)",
+    "id_subject": 2937,
+    "id_object": 1128,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 967,
+    "id_morion": 76533,
+    "corp_name": "Egor_Test_Base",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4535,
+    "id_object": 2080,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 988,
+    "id_morion": 9990,
+    "corp_name": "DOM7",
+    "morion_name": "Санитас ЧПФ (Украина, Житомир)",
+    "id_subject": 4669,
+    "id_object": 2108,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 505,
+    "id_morion": 81879,
+    "corp_name": "test223",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3316,
+    "id_object": 1494,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 250,
+    "id_morion": 76533,
+    "corp_name": "PARAM_CORP",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3152,
+    "id_object": 1331,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 225,
+    "id_morion": 76533,
+    "corp_name": "r_in2",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3128,
+    "id_object": 1307,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 538,
+    "id_morion": 81879,
+    "corp_name": "test274",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3375,
+    "id_object": 1552,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 559,
+    "id_morion": 81879,
+    "corp_name": "test295",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3412,
+    "id_object": 1589,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 545,
+    "id_morion": 81879,
+    "corp_name": "test282",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3381,
+    "id_object": 1558,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 504,
+    "id_morion": 81879,
+    "corp_name": "230",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3315,
+    "id_object": 1493,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 325,
+    "id_morion": 76533,
+    "corp_name": "dr",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3194,
+    "id_object": 1373,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 198,
+    "id_morion": 76533,
+    "corp_name": "ROUT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3092,
+    "id_object": 1268,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 740,
+    "id_morion": 76533,
+    "corp_name": "zj",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3723,
+    "id_object": 1830,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1029,
+    "id_morion": 76533,
+    "corp_name": "TEST",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4836,
+    "id_object": 2152,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 655,
+    "id_morion": 76533,
+    "corp_name": "NEW_DATA",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3505,
+    "id_object": 1682,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 395,
+    "id_morion": 76533,
+    "corp_name": "FLAG",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3253,
+    "id_object": 1431,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 290,
+    "id_morion": 76533,
+    "corp_name": "wt",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3418,
+    "id_object": 1595,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 324,
+    "id_morion": 76533,
+    "corp_name": "de",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3193,
+    "id_object": 1372,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1132,
+    "id_morion": 104356,
+    "corp_name": "Ромашка ООО (Украина, Самбор)666",
+    "morion_name": "Ромашка ООО (Украина, Самбор)",
+    "id_subject": 5331,
+    "id_object": 2259,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 319,
+    "id_morion": 76533,
+    "corp_name": "dw",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3244,
+    "id_object": 1422,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 424,
+    "id_morion": 120364,
+    "corp_name": "test 12",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3237,
+    "id_object": 1415,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 231,
+    "id_morion": 76533,
+    "corp_name": "POZITIF",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3134,
+    "id_object": 1313,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 521,
+    "id_morion": 81879,
+    "corp_name": "test256",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3332,
+    "id_object": 1510,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 4,
+    "id_morion": 87409,
+    "corp_name": "Карнаух Светлана Евгеньевна ФЛП (Украина, Запорожье)",
+    "morion_name": "Карнаух Светлана Евгеньевна ФЛП (Украина, Запорожье)",
+    "id_subject": 3189,
+    "id_object": 1368,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 190,
+    "id_morion": 76533,
+    "corp_name": "Reloc_test",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3085,
+    "id_object": 1262,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 714,
+    "id_morion": 81879,
+    "corp_name": "test 302 ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3515,
+    "id_object": 1692,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 113,
+    "id_morion": 76457,
+    "corp_name": "DOBRA",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3014,
+    "id_object": 1194,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 52,
+    "id_morion": 119556,
+    "corp_name": "Кировоградфармация КП (Украина, Новое)",
+    "morion_name": "Кировоградфармация КП (Украина, Новое)",
+    "id_subject": 2963,
+    "id_object": 1143,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 627,
+    "id_morion": 81879,
+    "corp_name": "test 501",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3530,
+    "id_object": 1705,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 721,
+    "id_morion": 76533,
+    "corp_name": "zo",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3575,
+    "id_object": 1782,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 527,
+    "id_morion": 81879,
+    "corp_name": "test262",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3285,
+    "id_object": 1463,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 739,
+    "id_morion": 76533,
+    "corp_name": "Аптека 1 офис",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3718,
+    "id_object": 1829,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 536,
+    "id_morion": 81879,
+    "corp_name": "test272",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3373,
+    "id_object": 1550,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 74,
+    "id_morion": 623,
+    "corp_name": "Фитофарм ЧАО (Украина, Артемовск)",
+    "morion_name": "Фитофарм ЧАО (Украина, Артемовск)",
+    "id_subject": 2984,
+    "id_object": 1162,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 358,
+    "id_morion": 76533,
+    "corp_name": "fz",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3517,
+    "id_object": 1694,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 601,
+    "id_morion": 76533,
+    "corp_name": "BEAVER",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3437,
+    "id_object": 1614,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 304,
+    "id_morion": 76533,
+    "corp_name": "qe",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3429,
+    "id_object": 1606,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 230,
+    "id_morion": 76533,
+    "corp_name": "Q",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3133,
+    "id_object": 1312,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 492,
+    "id_morion": 81879,
+    "corp_name": "test217",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3306,
+    "id_object": 1484,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 953,
+    "id_morion": 11488,
+    "corp_name": "Медпрепараты ООО ПКФ (Украина, Херсон)",
+    "morion_name": "Медпрепараты ООО ПКФ (Украина, Херсон)",
+    "id_subject": 4466,
+    "id_object": 2063,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1045,
+    "id_morion": 11488,
+    "corp_name": "Медпрепараты Тест АГ",
+    "morion_name": "Медпрепараты ООО ПКФ (Украина, Херсон)",
+    "id_subject": 4909,
+    "id_object": 2168,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 297,
+    "id_morion": 76533,
+    "corp_name": "wo",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3425,
+    "id_object": 1602,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 211,
+    "id_morion": 76533,
+    "corp_name": "rel_3",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3102,
+    "id_object": 1278,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 585,
+    "id_morion": 81879,
+    "corp_name": "test330",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3496,
+    "id_object": 1662,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 993,
+    "id_morion": 11488,
+    "corp_name": "Медпрепараты ООО ПКФ (Украина, Херсон) БОЕВАЯ",
+    "morion_name": "Медпрепараты ООО ПКФ (Украина, Херсон)",
+    "id_subject": 4688,
+    "id_object": 2116,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 238,
+    "id_morion": 76533,
+    "corp_name": "pr",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3140,
+    "id_object": 1319,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 674,
+    "id_morion": 76533,
+    "corp_name": "xe",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3606,
+    "id_object": 1776,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 196,
+    "id_morion": 76533,
+    "corp_name": "S_CORP",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3090,
+    "id_object": 1266,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 298,
+    "id_morion": 76533,
+    "corp_name": "TROC",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3426,
+    "id_object": 1603,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 604,
+    "id_morion": 76533,
+    "corp_name": "GEPARD",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3498,
+    "id_object": 1664,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 107,
+    "id_morion": 76457,
+    "corp_name": "clear",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3010,
+    "id_object": 1190,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 240,
+    "id_morion": 76533,
+    "corp_name": "wc",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3142,
+    "id_object": 1321,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 535,
+    "id_morion": 81879,
+    "corp_name": "test267",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3344,
+    "id_object": 1522,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 134,
+    "id_morion": 76533,
+    "corp_name": "R^&*",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3037,
+    "id_object": 1216,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 417,
+    "id_morion": 76533,
+    "corp_name": "nr",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3508,
+    "id_object": 1685,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 381,
+    "id_morion": 76533,
+    "corp_name": "BROM",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3224,
+    "id_object": 1403,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 243,
+    "id_morion": 76533,
+    "corp_name": "rp_1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3145,
+    "id_object": 1324,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 244,
+    "id_morion": 76533,
+    "corp_name": "rp_1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3146,
+    "id_object": 1325,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 472,
+    "id_morion": 86834,
+    "corp_name": "ДЮЗ ООО xxx",
+    "morion_name": "ДЮЗ ООО ПКП (Украина, Люботин)",
+    "id_subject": 3371,
+    "id_object": 1548,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 518,
+    "id_morion": 81879,
+    "corp_name": "test502",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3329,
+    "id_object": 1507,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 853,
+    "id_morion": -1,
+    "corp_name": "fthtfh",
+    "morion_name": "Test Corp",
+    "id_subject": 4089,
+    "id_object": 1959,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 474,
+    "id_morion": 81879,
+    "corp_name": "test evraziya",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3372,
+    "id_object": 1549,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 393,
+    "id_morion": 76533,
+    "corp_name": "Zub10",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3296,
+    "id_object": 1474,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 611,
+    "id_morion": 74811,
+    "corp_name": "test5",
+    "morion_name": "Ника-М ЧФ (Украина, Лохвица)",
+    "id_subject": 3439,
+    "id_object": 1616,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 595,
+    "id_morion": 76533,
+    "corp_name": "TRIE_TO_FIEND",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3436,
+    "id_object": 1613,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 57,
+    "id_morion": 10784,
+    "corp_name": "Астрон ЧФ (Украина, Луцк)",
+    "morion_name": "Астрон ЧФ (Украина, Луцк)",
+    "id_subject": 2967,
+    "id_object": 1845,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 689,
+    "id_morion": 76533,
+    "corp_name": "xt",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3626,
+    "id_object": 1800,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 285,
+    "id_morion": 76533,
+    "corp_name": "t7",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3452,
+    "id_object": 1629,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 738,
+    "id_morion": 81879,
+    "corp_name": "test 33 ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3717,
+    "id_object": 1828,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 20,
+    "id_morion": 113499,
+    "corp_name": "Новикова Галина Леонтьевна ФЛП (Украина, Владимир-Волынский)",
+    "morion_name": "Новикова Галина Леонтьевна ФЛП (Украина, Владимир-Волынский)",
+    "id_subject": 3609,
+    "id_object": 1779,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 353,
+    "id_morion": 76533,
+    "corp_name": "fh",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3282,
+    "id_object": 1460,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 697,
+    "id_morion": 76533,
+    "corp_name": "BLANK",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3632,
+    "id_object": 1804,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1055,
+    "id_morion": 76533,
+    "corp_name": "PRANA_TEST",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4961,
+    "id_object": 2178,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 470,
+    "id_morion": 2,
+    "corp_name": "нова ххх",
+    "morion_name": "name",
+    "id_subject": 3369,
+    "id_object": 1546,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 725,
+    "id_morion": 76533,
+    "corp_name": "zs",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3657,
+    "id_object": 1816,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 265,
+    "id_morion": 76533,
+    "corp_name": "ws",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3170,
+    "id_object": 1349,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 418,
+    "id_morion": 76533,
+    "corp_name": "nt",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3533,
+    "id_object": 1708,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 639,
+    "id_morion": 76533,
+    "corp_name": "zuib15",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3442,
+    "id_object": 1619,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 701,
+    "id_morion": 76533,
+    "corp_name": "zub19",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3612,
+    "id_object": 1788,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 301,
+    "id_morion": 76533,
+    "corp_name": "wp",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3345,
+    "id_object": 1523,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1147,
+    "id_morion": 40,
+    "corp_name": "Byk Gulden (Германия)",
+    "morion_name": "Byk Gulden (Германия)",
+    "id_subject": 5394,
+    "id_object": 2274,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 732,
+    "id_morion": 76533,
+    "corp_name": "Egor_TS_TestBases3",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3696,
+    "id_object": 1815,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 187,
+    "id_morion": 76533,
+    "corp_name": "SYS_CORP",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3082,
+    "id_object": 1259,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 314,
+    "id_morion": 76533,
+    "corp_name": "DISCOUNT2_TEST",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3280,
+    "id_object": 1458,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 155,
+    "id_morion": 493550,
+    "corp_name": "fasfasf",
+    "morion_name": "Жевлакова Любовь Сергеевна ФЛП (Украина, Стаханов)",
+    "id_subject": 3358,
+    "id_object": 1535,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 608,
+    "id_morion": 76457,
+    "corp_name": "test3",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3522,
+    "id_object": 1697,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 79,
+    "id_morion": 144874,
+    "corp_name": "Савкин Александр Николаевич ФЛП (Украина, Конские Раздоры)",
+    "morion_name": "Савкин Александр Николаевич ФЛП (Украина, Конские Раздоры)",
+    "id_subject": 2989,
+    "id_object": 1167,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1048,
+    "id_morion": 76533,
+    "corp_name": "FRY",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4925,
+    "id_object": 2171,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 54,
+    "id_morion": 125627,
+    "corp_name": "Уразовский Владимир Валентинович ФЛП (Украина, Кировоград)",
+    "morion_name": "Уразовский Владимир Валентинович ФЛП (Украина, Кировоград)",
+    "id_subject": 2964,
+    "id_object": 1144,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1034,
+    "id_morion": 76533,
+    "corp_name": "BAR",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4855,
+    "id_object": 2157,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 814,
+    "id_morion": 81879,
+    "corp_name": "ЕВРАЗИЯ 111ООО (Украина, Котельва)",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3956,
+    "id_object": 1924,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 551,
+    "id_morion": 81879,
+    "corp_name": "test287",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3408,
+    "id_object": 1585,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1175,
+    "id_morion": 76533,
+    "corp_name": "Tanya",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5464,
+    "id_object": 2302,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 575,
+    "id_morion": 81879,
+    "corp_name": "test320",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3476,
+    "id_object": 1646,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 476,
+    "id_morion": 81879,
+    "corp_name": "test5",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3269,
+    "id_object": 1447,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 376,
+    "id_morion": 76533,
+    "corp_name": "voln",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3219,
+    "id_object": 1398,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 255,
+    "id_morion": 76533,
+    "corp_name": "T2",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3157,
+    "id_object": 1336,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 87,
+    "id_morion": 157597,
+    "corp_name": "Асклепий-центр ЧП (Украина, Днепродзержинск)",
+    "morion_name": "Асклепий-центр ЧП (Украина, Днепродзержинск)",
+    "id_subject": 2992,
+    "id_object": 1170,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 321,
+    "id_morion": 76533,
+    "corp_name": "BAIRON",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3192,
+    "id_object": 1371,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 432,
+    "id_morion": 76533,
+    "corp_name": "me",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3363,
+    "id_object": 1540,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 311,
+    "id_morion": 76533,
+    "corp_name": "sj",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3256,
+    "id_object": 1434,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 125,
+    "id_morion": 76457,
+    "corp_name": "QSWQs",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3024,
+    "id_object": 1203,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 163,
+    "id_morion": 76533,
+    "corp_name": "Farm_corp",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3071,
+    "id_object": 1250,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 332,
+    "id_morion": 76533,
+    "corp_name": "fw",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3199,
+    "id_object": 1378,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 616,
+    "id_morion": 76457,
+    "corp_name": "Test ANR",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3384,
+    "id_object": 1561,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1146,
+    "id_morion": 39,
+    "corp_name": "Brupharmexport (Бельгия)",
+    "morion_name": "Brupharmexport (Бельгия)",
+    "id_subject": 5393,
+    "id_object": 2273,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 253,
+    "id_morion": 76533,
+    "corp_name": "MONOLIT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3155,
+    "id_object": 1334,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 140,
+    "id_morion": 76533,
+    "corp_name": "С1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3044,
+    "id_object": 1221,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 182,
+    "id_morion": 76533,
+    "corp_name": "PARKER",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3038,
+    "id_object": 1227,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 21,
+    "id_morion": 30,
+    "corp_name": "Авдейчик Василий Васильевич ФЛП (Украина, Хмельницкий)",
+    "morion_name": "Авдейчик Василий Васильевич ФЛП (Украина, Хмельницкий)",
+    "id_subject": 3610,
+    "id_object": 1780,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 213,
+    "id_morion": 76533,
+    "corp_name": "PW",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3116,
+    "id_object": 1295,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 15,
+    "id_morion": 81504,
+    "corp_name": "Мудрак Оксана Игоревна ФЛП (Украина, Золочев)",
+    "morion_name": "Мудрак Оксана Игоревна ФЛП (Украина, Золочев)",
+    "id_subject": 2919,
+    "id_object": 1126,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 409,
+    "id_morion": 120364,
+    "corp_name": "test 6",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3460,
+    "id_object": 1678,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 135,
+    "id_morion": 76533,
+    "corp_name": "A@1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3039,
+    "id_object": 1217,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 671,
+    "id_morion": 76533,
+    "corp_name": "zub17",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3603,
+    "id_object": 1774,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 143,
+    "id_morion": 76533,
+    "corp_name": "K1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3346,
+    "id_object": 1524,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 654,
+    "id_morion": 81879,
+    "corp_name": "ЕВРАЗИЯ ООО test 4 (Украина, Котельва)",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3504,
+    "id_object": 1681,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 850,
+    "id_morion": 23,
+    "corp_name": "Behringwerke (Германия)",
+    "morion_name": "Behringwerke (Германия)",
+    "id_subject": 4078,
+    "id_object": 1956,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 256,
+    "id_morion": 76533,
+    "corp_name": "wn",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3158,
+    "id_object": 1337,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 950,
+    "id_morion": 76457,
+    "corp_name": "BROAD",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 4458,
+    "id_object": 2060,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 459,
+    "id_morion": 689,
+    "corp_name": "tesr",
+    "morion_name": "Лекформ (Россия)",
+    "id_subject": 3299,
+    "id_object": 1477,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 130,
+    "id_morion": 76533,
+    "corp_name": "Raven",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3030,
+    "id_object": 1209,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 385,
+    "id_morion": 76533,
+    "corp_name": "vvv",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3250,
+    "id_object": 1428,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 62,
+    "id_morion": 87163,
+    "corp_name": "Вита-Мед ЧП (Украина, Каменец-Подольский)",
+    "morion_name": "Вита-Мед ЧП (Украина, Каменец-Подольский)",
+    "id_subject": 2973,
+    "id_object": 1151,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 405,
+    "id_morion": 120364,
+    "corp_name": "test 3",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3391,
+    "id_object": 1569,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 95,
+    "id_morion": 76457,
+    "corp_name": "T_CORPORATION",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3004,
+    "id_object": 1185,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 563,
+    "id_morion": 81879,
+    "corp_name": "test301",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3473,
+    "id_object": 1674,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 195,
+    "id_morion": 76533,
+    "corp_name": "R_Out",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3089,
+    "id_object": 1265,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 675,
+    "id_morion": 123,
+    "corp_name": "2",
+    "morion_name": "Lupin (Индия)",
+    "id_subject": 3619,
+    "id_object": 1793,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 640,
+    "id_morion": 76533,
+    "corp_name": "LIGHT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3443,
+    "id_object": 1620,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 664,
+    "id_morion": 76533,
+    "corp_name": "PR_BASE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3599,
+    "id_object": 1770,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 406,
+    "id_morion": 120364,
+    "corp_name": "test 4",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3392,
+    "id_object": 1570,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1033,
+    "id_morion": 76533,
+    "corp_name": "BASE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4854,
+    "id_object": 2156,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 108,
+    "id_morion": 76457,
+    "corp_name": "WOMER",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 2968,
+    "id_object": 1146,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 466,
+    "id_morion": 120364,
+    "corp_name": "new name",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3367,
+    "id_object": 1544,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 181,
+    "id_morion": 76533,
+    "corp_name": "NEW_TEST",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3036,
+    "id_object": 1215,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 356,
+    "id_morion": 76533,
+    "corp_name": "fk",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3457,
+    "id_object": 1632,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 131,
+    "id_morion": 76533,
+    "corp_name": "TEST_APROVE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3031,
+    "id_object": 1210,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 615,
+    "id_morion": 801504,
+    "corp_name": "test",
+    "morion_name": "Василевич Ольга Александровна  (Беларусь)",
+    "id_subject": 3499,
+    "id_object": 1665,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 431,
+    "id_morion": 76533,
+    "corp_name": "mw",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3298,
+    "id_object": 1476,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 214,
+    "id_morion": 76533,
+    "corp_name": "rel_5",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3117,
+    "id_object": 1296,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 149,
+    "id_morion": 76533,
+    "corp_name": "alfanew",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3059,
+    "id_object": 1238,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 270,
+    "id_morion": 76533,
+    "corp_name": "RICK",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3175,
+    "id_object": 1354,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 31,
+    "id_morion": 142641,
+    "corp_name": "Гузьо Дмитрий Романович ФЛП (Украина, Выгода)",
+    "morion_name": "Гузьо Дмитрий Романович ФЛП (Украина, Выгода)",
+    "id_subject": 2931,
+    "id_object": 1120,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 547,
+    "id_morion": 76533,
+    "corp_name": "POST_CORP",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3396,
+    "id_object": 1574,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 185,
+    "id_morion": 76533,
+    "corp_name": "HUSTON",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3080,
+    "id_object": 1257,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 514,
+    "id_morion": 81879,
+    "corp_name": "test248",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3325,
+    "id_object": 1503,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 224,
+    "id_morion": 76533,
+    "corp_name": "PARADIZE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3127,
+    "id_object": 1306,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 637,
+    "id_morion": 81879,
+    "corp_name": "ЕВРАЗИЯ ООО test",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3500,
+    "id_object": 1666,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 89,
+    "id_morion": 24446,
+    "corp_name": "Больница центральная районная имени братьев М.С и А.С. Коломийче КП (Украина, Шпола)",
+    "morion_name": "Больница центральная районная имени братьев М.С и А.С. Коломийче КП (Украина, Шпола)",
+    "id_subject": 2998,
+    "id_object": 1179,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 168,
+    "id_morion": 76533,
+    "corp_name": "Всем Бобра",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3074,
+    "id_object": 1253,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 659,
+    "id_morion": 76533,
+    "corp_name": "FLAX",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3538,
+    "id_object": 1713,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 56,
+    "id_morion": 125851,
+    "corp_name": "Алга Украина ООО (Украина, Фастов)",
+    "morion_name": "Алга Украина ООО (Украина, Фастов)",
+    "id_subject": 2966,
+    "id_object": 1145,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 682,
+    "id_morion": 76533,
+    "corp_name": "RIZE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3617,
+    "id_object": 1791,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 438,
+    "id_morion": 76533,
+    "corp_name": "md",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3519,
+    "id_object": 1733,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 633,
+    "id_morion": 30894,
+    "corp_name": "test 2",
+    "morion_name": "Аптека Центральная Районная 6  КП (Украина, Лебедин)",
+    "id_subject": 3536,
+    "id_object": 1711,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 283,
+    "id_morion": 76533,
+    "corp_name": "dis",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3450,
+    "id_object": 1627,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 927,
+    "id_morion": 76533,
+    "corp_name": "Zub25",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4356,
+    "id_object": 2037,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1170,
+    "id_morion": 76533,
+    "corp_name": "PRO100",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5442,
+    "id_object": 2297,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 609,
+    "id_morion": 81879,
+    "corp_name": "test350",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3438,
+    "id_object": 1615,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 203,
+    "id_morion": 76533,
+    "corp_name": "check",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3096,
+    "id_object": 1272,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 400,
+    "id_morion": 20165,
+    "corp_name": "test2",
+    "morion_name": "АУРА ООО (Украина, Стрый)",
+    "id_subject": 3386,
+    "id_object": 1563,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 161,
+    "id_morion": 76533,
+    "corp_name": "WAY",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3069,
+    "id_object": 1248,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 403,
+    "id_morion": 120364,
+    "corp_name": "test 3",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3389,
+    "id_object": 1567,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 138,
+    "id_morion": 76533,
+    "corp_name": "B1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3042,
+    "id_object": 1219,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 401,
+    "id_morion": 20165,
+    "corp_name": "test3",
+    "morion_name": "АУРА ООО (Украина, Стрый)",
+    "id_subject": 3387,
+    "id_object": 1564,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 375,
+    "id_morion": 76533,
+    "corp_name": "Lex",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3218,
+    "id_object": 1397,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 553,
+    "id_morion": 81879,
+    "corp_name": "test289",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3401,
+    "id_object": 1827,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 744,
+    "id_morion": 76533,
+    "corp_name": "zc",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3739,
+    "id_object": 1844,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 554,
+    "id_morion": 81879,
+    "corp_name": "test290",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3402,
+    "id_object": 1579,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 433,
+    "id_morion": 76533,
+    "corp_name": "mr",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3393,
+    "id_object": 1571,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 402,
+    "id_morion": 120364,
+    "corp_name": "test 3",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3388,
+    "id_object": 1565,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 651,
+    "id_morion": 76533,
+    "corp_name": "melnykovych",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3502,
+    "id_object": 1668,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 219,
+    "id_morion": 76533,
+    "corp_name": "yo",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3122,
+    "id_object": 1301,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 976,
+    "id_morion": 76457,
+    "corp_name": "WBC",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 4580,
+    "id_object": 2089,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 817,
+    "id_morion": 76457,
+    "corp_name": "Юнсон тест Півовар (Украина, Киев)",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3972,
+    "id_object": 1928,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1032,
+    "id_morion": 76533,
+    "corp_name": "BAZ",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4851,
+    "id_object": 2155,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 247,
+    "id_morion": 76533,
+    "corp_name": "BYTE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3149,
+    "id_object": 1328,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 666,
+    "id_morion": 76533,
+    "corp_name": "FRASH",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3600,
+    "id_object": 1771,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 72,
+    "id_morion": 81354,
+    "corp_name": "Ольга ЧМП (Украина, Донецк)",
+    "morion_name": "Ольга ЧМП (Украина, Донецк)",
+    "id_subject": 2983,
+    "id_object": 1161,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 592,
+    "id_morion": 81879,
+    "corp_name": "test356",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3477,
+    "id_object": 1647,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 359,
+    "id_morion": 76533,
+    "corp_name": "FORS",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3507,
+    "id_object": 1684,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 583,
+    "id_morion": 81879,
+    "corp_name": "test328",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3494,
+    "id_object": 1661,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 136,
+    "id_morion": 76533,
+    "corp_name": "A@3",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3040,
+    "id_object": 1218,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 506,
+    "id_morion": 81879,
+    "corp_name": "test234",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3317,
+    "id_object": 1495,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 77,
+    "id_morion": 74693,
+    "corp_name": "Адонис Компани ООО (Украина, Червоная Поляна)",
+    "morion_name": "Адонис Компани ООО (Украина, Червоная Поляна)",
+    "id_subject": 2987,
+    "id_object": 1165,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1194,
+    "id_morion": 76533,
+    "corp_name": "Vadim",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5564,
+    "id_object": 2322,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 306,
+    "id_morion": 76533,
+    "corp_name": "aw",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3431,
+    "id_object": 1608,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 160,
+    "id_morion": 76533,
+    "corp_name": "New_test",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3068,
+    "id_object": 1247,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 387,
+    "id_morion": 76533,
+    "corp_name": "cxz",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3251,
+    "id_object": 1429,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 420,
+    "id_morion": 113678,
+    "corp_name": "Плиш Наталия Петровна 3",
+    "morion_name": "Плиш Наталия Петровна ФЛП (Украина, Золочев)",
+    "id_subject": 3231,
+    "id_object": 1409,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 362,
+    "id_morion": 76533,
+    "corp_name": "ALF",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3249,
+    "id_object": 1427,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 579,
+    "id_morion": 81879,
+    "corp_name": "test324",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3490,
+    "id_object": 1658,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 55,
+    "id_morion": 87138,
+    "corp_name": "Ведмедко Екатерина Викторовна ФЛП (Украина, Днепрорудное)",
+    "morion_name": "Ведмедко Екатерина Викторовна ФЛП (Украина, Днепрорудное)",
+    "id_subject": 2965,
+    "id_object": 1173,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 278,
+    "id_morion": 76533,
+    "corp_name": "TrueMan",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3445,
+    "id_object": 1622,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 189,
+    "id_morion": 76533,
+    "corp_name": "Reloс",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3084,
+    "id_object": 1261,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 519,
+    "id_morion": 81879,
+    "corp_name": "test253",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3330,
+    "id_object": 1508,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 544,
+    "id_morion": 81879,
+    "corp_name": "test280",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3380,
+    "id_object": 1557,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 389,
+    "id_morion": 76533,
+    "corp_name": "NEW",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3228,
+    "id_object": 1406,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 60,
+    "id_morion": 104356,
+    "corp_name": "Ромашка ООО (Украина, Самбор)",
+    "morion_name": "Ромашка ООО (Украина, Самбор)",
+    "id_subject": 2971,
+    "id_object": 1149,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 318,
+    "id_morion": 76533,
+    "corp_name": "dq",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3191,
+    "id_object": 1370,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 806,
+    "id_morion": 76533,
+    "corp_name": "pqa",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3915,
+    "id_object": 1914,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 27,
+    "id_morion": 31054,
+    "corp_name": "Аптека Центральная Районная 23 КП (Украина, Сторожинец)",
+    "morion_name": "Аптека Центральная Районная 23 КП (Украина, Сторожинец)",
+    "id_subject": 2927,
+    "id_object": 1115,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 379,
+    "id_morion": 76533,
+    "corp_name": "ZERO",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3222,
+    "id_object": 1401,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 337,
+    "id_morion": 76533,
+    "corp_name": "fy",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3204,
+    "id_object": 1383,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 121,
+    "id_morion": 87409,
+    "corp_name": "не карнаух2",
+    "morion_name": "Карнаух Светлана Евгеньевна ФЛП (Украина, Запорожье)",
+    "id_subject": 3020,
+    "id_object": 1199,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 5,
+    "id_morion": 71601,
+    "corp_name": "Аптека 226  ООО (Украина, Запорожье)",
+    "morion_name": "Аптека 226  ООО (Украина, Запорожье)",
+    "id_subject": 3166,
+    "id_object": 1345,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 234,
+    "id_morion": 76533,
+    "corp_name": "w",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3137,
+    "id_object": 1316,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 524,
+    "id_morion": 81879,
+    "corp_name": "test259",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3335,
+    "id_object": 1513,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 354,
+    "id_morion": 76533,
+    "corp_name": "fj",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3351,
+    "id_object": 1529,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 64,
+    "id_morion": 134805,
+    "corp_name": "Павелко Любовь Гавриловна ФЛП (Украина, Шкло)",
+    "morion_name": "Павелко Любовь Гавриловна ФЛП (Украина, Шкло)",
+    "id_subject": 2975,
+    "id_object": 1153,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 326,
+    "id_morion": 76533,
+    "corp_name": "dt",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3195,
+    "id_object": 1374,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 194,
+    "id_morion": 76533,
+    "corp_name": "DISCOUNT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3088,
+    "id_object": 1264,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 227,
+    "id_morion": 76533,
+    "corp_name": "r_1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3130,
+    "id_object": 1309,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 51,
+    "id_morion": 10227,
+    "corp_name": "Экспресс-Мед ООО (Украина, Одесса)",
+    "morion_name": "Экспресс-Мед ООО (Украина, Одесса)",
+    "id_subject": 2962,
+    "id_object": 1142,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 710,
+    "id_morion": 76457,
+    "corp_name": "zw",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 2997,
+    "id_object": 1178,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1072,
+    "id_morion": 76533,
+    "corp_name": "WALKMAN",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5034,
+    "id_object": 2195,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 649,
+    "id_morion": 81879,
+    "corp_name": "test 901",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3481,
+    "id_object": 1675,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 65,
+    "id_morion": 77293,
+    "corp_name": "Биотехнология ООО (Украина, Киев)",
+    "morion_name": "Биотехнология ООО (Украина, Киев)",
+    "id_subject": 2976,
+    "id_object": 1154,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 603,
+    "id_morion": 1,
+    "corp_name": "Abbott Lab. (США)",
+    "morion_name": "Abbott Lab. (США)",
+    "id_subject": 3497,
+    "id_object": 1663,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1168,
+    "id_morion": 76533,
+    "corp_name": "BOUNCE",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5435,
+    "id_object": 2295,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 272,
+    "id_morion": 76533,
+    "corp_name": "wf",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3177,
+    "id_object": 1356,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 481,
+    "id_morion": 81879,
+    "corp_name": "test203",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3273,
+    "id_object": 1451,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 816,
+    "id_morion": 76533,
+    "corp_name": "Egor_TS_TestBases1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3965,
+    "id_object": 1927,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1195,
+    "id_morion": 76533,
+    "corp_name": "Dima",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5570,
+    "id_object": 2323,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 159,
+    "id_morion": 76533,
+    "corp_name": "DOM",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3067,
+    "id_object": 1246,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1086,
+    "id_morion": 76533,
+    "corp_name": "EgorTestRegr",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5098,
+    "id_object": 2209,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 336,
+    "id_morion": 76533,
+    "corp_name": "ft",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3203,
+    "id_object": 1382,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 3,
+    "id_morion": 134812,
+    "corp_name": "Целительница ООО (Украина, Знаменка)",
+    "morion_name": "Целительница ООО (Украина, Знаменка)",
+    "id_subject": 3027,
+    "id_object": 1206,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 122,
+    "id_morion": 76457,
+    "corp_name": "Test",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3021,
+    "id_object": 1200,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 673,
+    "id_morion": 76533,
+    "corp_name": "xw",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3605,
+    "id_object": 1775,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 543,
+    "id_morion": 81879,
+    "corp_name": "test279",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3379,
+    "id_object": 1556,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 228,
+    "id_morion": 76533,
+    "corp_name": "NEW_MIG",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3131,
+    "id_object": 1310,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 286,
+    "id_morion": 76533,
+    "corp_name": "VERS",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3453,
+    "id_object": 1630,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 656,
+    "id_morion": 76533,
+    "corp_name": "TEST_DISC",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3516,
+    "id_object": 1693,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 562,
+    "id_morion": 81879,
+    "corp_name": "test298",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3415,
+    "id_object": 1592,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 67,
+    "id_morion": 138997,
+    "corp_name": "Кислица Геннадий Георгиевич ФЛП (Украина, Попасная)",
+    "morion_name": "Кислица Геннадий Георгиевич ФЛП (Украина, Попасная)",
+    "id_subject": 2978,
+    "id_object": 1156,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 349,
+    "id_morion": 76533,
+    "corp_name": "fs",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3216,
+    "id_object": 1395,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 364,
+    "id_morion": 76533,
+    "corp_name": "BRING",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3294,
+    "id_object": 1472,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 423,
+    "id_morion": 120364,
+    "corp_name": "test 11",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3236,
+    "id_object": 1414,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 144,
+    "id_morion": 76533,
+    "corp_name": "l1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3054,
+    "id_object": 1234,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 711,
+    "id_morion": 76533,
+    "corp_name": "ze",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3293,
+    "id_object": 1471,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 421,
+    "id_morion": 76533,
+    "corp_name": "ni",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3235,
+    "id_object": 1413,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 217,
+    "id_morion": 76533,
+    "corp_name": "qwerty",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3120,
+    "id_object": 1299,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 124,
+    "id_morion": 76457,
+    "corp_name": "swqd",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3023,
+    "id_object": 1202,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 378,
+    "id_morion": 76533,
+    "corp_name": "BYRON",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3221,
+    "id_object": 1400,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 499,
+    "id_morion": 81879,
+    "corp_name": "test228",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3310,
+    "id_object": 1488,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 398,
+    "id_morion": 76533,
+    "corp_name": "TESTING",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3284,
+    "id_object": 1462,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 80,
+    "id_morion": 139480,
+    "corp_name": "Сити-Фарм ЧП (Украина, Запорожье)",
+    "morion_name": "Сити-Фарм ЧП (Украина, Запорожье)",
+    "id_subject": 2990,
+    "id_object": 1168,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 70,
+    "id_morion": 87113,
+    "corp_name": "УКРФАРМ ООО (Украина, Ровно)",
+    "morion_name": "УКРФАРМ ООО (Украина, Ровно)",
+    "id_subject": 2981,
+    "id_object": 1159,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 188,
+    "id_morion": 76533,
+    "corp_name": "Reloc",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3083,
+    "id_object": 1260,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 716,
+    "id_morion": 76533,
+    "corp_name": "zr",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3570,
+    "id_object": 1784,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 280,
+    "id_morion": 76533,
+    "corp_name": "wk",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3447,
+    "id_object": 1624,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 307,
+    "id_morion": 76533,
+    "corp_name": "APPS_CORP",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3432,
+    "id_object": 1609,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 728,
+    "id_morion": 76533,
+    "corp_name": "zf",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3672,
+    "id_object": 1820,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 76,
+    "id_morion": 74855,
+    "corp_name": "Неон ООО (Украина, Моршин)",
+    "morion_name": "Неон ООО (Украина, Моршин)",
+    "id_subject": 2986,
+    "id_object": 1164,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 216,
+    "id_morion": 76533,
+    "corp_name": "sw",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3119,
+    "id_object": 1298,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 254,
+    "id_morion": 76533,
+    "corp_name": "SkyBases",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3156,
+    "id_object": 1335,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 396,
+    "id_morion": 76533,
+    "corp_name": "MAYERS",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3265,
+    "id_object": 1443,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 223,
+    "id_morion": 76533,
+    "corp_name": "Zub2",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3126,
+    "id_object": 1305,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 263,
+    "id_morion": 76533,
+    "corp_name": "f_1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3165,
+    "id_object": 1344,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 404,
+    "id_morion": 120364,
+    "corp_name": "test 3",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3390,
+    "id_object": 1568,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 507,
+    "id_morion": 81879,
+    "corp_name": "test241",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3318,
+    "id_object": 1496,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 445,
+    "id_morion": 120364,
+    "corp_name": "test 15",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3268,
+    "id_object": 1446,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 390,
+    "id_morion": 76533,
+    "corp_name": "RAW",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3252,
+    "id_object": 1430,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 215,
+    "id_morion": 76533,
+    "corp_name": "rel_6",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3118,
+    "id_object": 1297,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 429,
+    "id_morion": 76533,
+    "corp_name": "no",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3241,
+    "id_object": 1419,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 152,
+    "id_morion": 146072,
+    "corp_name": "ПРАНА-ФАРМ 2",
+    "morion_name": "ПРАНА-ФАРМ ООО (Украина, Харьков)",
+    "id_subject": 3062,
+    "id_object": 1241,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 679,
+    "id_morion": 76533,
+    "corp_name": "EgorTS_Test",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3614,
+    "id_object": 1790,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 550,
+    "id_morion": 81879,
+    "corp_name": "test286",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3399,
+    "id_object": 1577,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 692,
+    "id_morion": 76533,
+    "corp_name": "SALTO",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3628,
+    "id_object": 1802,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 221,
+    "id_morion": 76533,
+    "corp_name": "r_in",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3124,
+    "id_object": 1303,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 597,
+    "id_morion": 86834,
+    "corp_name": "test2",
+    "morion_name": "ДЮЗ ООО ПКП (Украина, Люботин)",
+    "id_subject": 3528,
+    "id_object": 1703,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 288,
+    "id_morion": 76533,
+    "corp_name": "PRICE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3455,
+    "id_object": 1677,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 558,
+    "id_morion": 81879,
+    "corp_name": "test294",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3411,
+    "id_object": 1588,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1178,
+    "id_morion": 76457,
+    "corp_name": "Чеботарь-тест",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 5481,
+    "id_object": 2305,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 940,
+    "id_morion": 76533,
+    "corp_name": "VALENTIN",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4410,
+    "id_object": 1901,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 428,
+    "id_morion": 120364,
+    "corp_name": "ДЮЗ ООО ПКП (Украина, Люботин)",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3240,
+    "id_object": 1418,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 90,
+    "id_morion": 26816,
+    "corp_name": "Колледж Чертковский государственный медицинский ГП (Украина, Чортков)",
+    "morion_name": "Колледж Чертковский государственный медицинский ГП (Украина, Чортков)",
+    "id_subject": 2999,
+    "id_object": 1180,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 422,
+    "id_morion": 120364,
+    "corp_name": "test 10",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3232,
+    "id_object": 1410,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 287,
+    "id_morion": 76533,
+    "corp_name": "wr",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3454,
+    "id_object": 1631,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 392,
+    "id_morion": 76533,
+    "corp_name": "ALLDONE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3264,
+    "id_object": 1442,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 546,
+    "id_morion": 81879,
+    "corp_name": "test283",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3382,
+    "id_object": 1559,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 943,
+    "id_morion": 76533,
+    "corp_name": "SMART",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4423,
+    "id_object": 2042,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 653,
+    "id_morion": 76533,
+    "corp_name": "PPPOE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3503,
+    "id_object": 1680,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 643,
+    "id_morion": 76533,
+    "corp_name": "PRODUCT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3501,
+    "id_object": 1667,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 748,
+    "id_morion": 76533,
+    "corp_name": "qwe",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3749,
+    "id_object": 1851,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 947,
+    "id_morion": 76457,
+    "corp_name": "VALENTIN_2",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 4441,
+    "id_object": 2046,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 555,
+    "id_morion": 81879,
+    "corp_name": "test291",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3409,
+    "id_object": 1586,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 305,
+    "id_morion": 76533,
+    "corp_name": "aq",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3430,
+    "id_object": 1607,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 399,
+    "id_morion": 76533,
+    "corp_name": "bq",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3362,
+    "id_object": 1539,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 104,
+    "id_morion": 76457,
+    "corp_name": "DIZEL",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3008,
+    "id_object": 1188,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 526,
+    "id_morion": 81879,
+    "corp_name": "test261",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3337,
+    "id_object": 1515,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 511,
+    "id_morion": 81879,
+    "corp_name": "test245",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3322,
+    "id_object": 1500,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 959,
+    "id_morion": 76533,
+    "corp_name": "Zub26",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4494,
+    "id_object": 2069,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 281,
+    "id_morion": 76533,
+    "corp_name": "wk2",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3448,
+    "id_object": 1625,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 513,
+    "id_morion": 81879,
+    "corp_name": "test247",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3324,
+    "id_object": 1502,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 461,
+    "id_morion": 493551,
+    "corp_name": "вапвапрварпвапрвапрвапрр",
+    "morion_name": "Аптека 1  (Украина, Стаханов)",
+    "id_subject": 3300,
+    "id_object": 1478,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 412,
+    "id_morion": 120364,
+    "corp_name": "test 9",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3469,
+    "id_object": 1642,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 69,
+    "id_morion": 86020,
+    "corp_name": "Авиценна ООО (Украина, Ровеньки)",
+    "morion_name": "Авиценна ООО (Украина, Ровеньки)",
+    "id_subject": 2980,
+    "id_object": 1158,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 218,
+    "id_morion": 76533,
+    "corp_name": "gvno",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3121,
+    "id_object": 1300,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 540,
+    "id_morion": 81879,
+    "corp_name": "test276",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3377,
+    "id_object": 1554,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 320,
+    "id_morion": 76533,
+    "corp_name": "PARK",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3259,
+    "id_object": 1437,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 103,
+    "id_morion": 76457,
+    "corp_name": "DIZEL",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3183,
+    "id_object": 1362,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 688,
+    "id_morion": 76533,
+    "corp_name": "BAYRON",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3625,
+    "id_object": 1799,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 520,
+    "id_morion": 81879,
+    "corp_name": "test255",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3331,
+    "id_object": 1509,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 567,
+    "id_morion": 81879,
+    "corp_name": "test306",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3435,
+    "id_object": 1612,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 473,
+    "id_morion": 76533,
+    "corp_name": "Zub13",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3395,
+    "id_object": 1573,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1,
+    "id_morion": 35,
+    "corp_name": "Басилкевич Татьяна Ивановна ФЛП (Украина, Дослидницкое)",
+    "morion_name": "Басилкевич Татьяна Ивановна ФЛП (Украина, Дослидницкое)",
+    "id_subject": 3187,
+    "id_object": 1366,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 625,
+    "id_morion": 76533,
+    "corp_name": "FLINT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3523,
+    "id_object": 1698,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 73,
+    "id_morion": 7251,
+    "corp_name": "Ян ЧП (Украина, Киев)",
+    "morion_name": "Ян ЧП (Украина, Киев)",
+    "id_subject": 3169,
+    "id_object": 1348,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 294,
+    "id_morion": 76533,
+    "corp_name": "wy2",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3422,
+    "id_object": 1599,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 206,
+    "id_morion": 76533,
+    "corp_name": "DC",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3097,
+    "id_object": 1273,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 419,
+    "id_morion": 113678,
+    "corp_name": "Плиш Наталия Петровна 2",
+    "morion_name": "Плиш Наталия Петровна ФЛП (Украина, Золочев)",
+    "id_subject": 3230,
+    "id_object": 1408,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 584,
+    "id_morion": 81879,
+    "corp_name": "test329",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3495,
+    "id_object": 1673,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 397,
+    "id_morion": 120364,
+    "corp_name": "12445646546546",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3297,
+    "id_object": 1475,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 600,
+    "id_morion": 81879,
+    "corp_name": "ЕВРАЗИЯ ООО",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3255,
+    "id_object": 1433,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 145,
+    "id_morion": 76533,
+    "corp_name": "primaltesttest",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3055,
+    "id_object": 1235,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 299,
+    "id_morion": 76533,
+    "corp_name": "z_group",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3427,
+    "id_object": 1604,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 715,
+    "id_morion": 76533,
+    "corp_name": "Zub22",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3563,
+    "id_object": 1781,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 289,
+    "id_morion": 76533,
+    "corp_name": "POZITIF",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3417,
+    "id_object": 1594,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 25,
+    "id_morion": 30861,
+    "corp_name": "Аптека районная им.Смирнова ООО (Украина, Мена)",
+    "morion_name": "Аптека районная им.Смирнова ООО (Украина, Мена)",
+    "id_subject": 2925,
+    "id_object": 1122,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 350,
+    "id_morion": 76533,
+    "corp_name": "fd",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3248,
+    "id_object": 1426,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 494,
+    "id_morion": 81879,
+    "corp_name": "test219",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3307,
+    "id_object": 1485,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 226,
+    "id_morion": 76533,
+    "corp_name": "pwq",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3129,
+    "id_object": 1308,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 186,
+    "id_morion": 76533,
+    "corp_name": "Reloc_corp2",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3081,
+    "id_object": 1258,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 78,
+    "id_morion": 146072,
+    "corp_name": "ПРАНА-ФАРМ ООО (Украина, Харьков)",
+    "morion_name": "ПРАНА-ФАРМ ООО (Украина, Харьков)",
+    "id_subject": 2988,
+    "id_object": 1166,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 623,
+    "id_morion": 76533,
+    "corp_name": "FUNC",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3464,
+    "id_object": 1637,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 610,
+    "id_morion": 81879,
+    "corp_name": "test351",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3479,
+    "id_object": 1649,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 430,
+    "id_morion": 76533,
+    "corp_name": "mq",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3266,
+    "id_object": 1444,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 532,
+    "id_morion": 81879,
+    "corp_name": "test268",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3341,
+    "id_object": 1519,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 370,
+    "id_morion": 76533,
+    "corp_name": "Test2 Helen",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3356,
+    "id_object": 1533,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 61,
+    "id_morion": 9306,
+    "corp_name": "Медикотека ЧП (Украина, Одесса)",
+    "morion_name": "Медикотека ЧП (Украина, Одесса)",
+    "id_subject": 2972,
+    "id_object": 1150,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 23,
+    "id_morion": 33287,
+    "corp_name": "Аптечное объединение Тернопольское ОПТ КП (Украина, Тернополь)",
+    "morion_name": "Аптечное объединение Тернопольское ОПТ КП (Украина, Тернополь)",
+    "id_subject": 2923,
+    "id_object": 1119,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 425,
+    "id_morion": 120364,
+    "corp_name": "test 22",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3238,
+    "id_object": 1416,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 512,
+    "id_morion": 81879,
+    "corp_name": "test246",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3323,
+    "id_object": 1501,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 552,
+    "id_morion": 81879,
+    "corp_name": "test288",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3400,
+    "id_object": 1578,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 549,
+    "id_morion": 81879,
+    "corp_name": "test285",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3398,
+    "id_object": 1576,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 528,
+    "id_morion": 81879,
+    "corp_name": "test563",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3286,
+    "id_object": 1464,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 497,
+    "id_morion": 81879,
+    "corp_name": "test214",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3308,
+    "id_object": 1486,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 366,
+    "id_morion": 76533,
+    "corp_name": "MIF46545456456",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3347,
+    "id_object": 1525,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 465,
+    "id_morion": 120364,
+    "corp_name": "нова 2",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3366,
+    "id_object": 1543,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 620,
+    "id_morion": 76533,
+    "corp_name": "PROD",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3440,
+    "id_object": 1617,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 949,
+    "id_morion": 76457,
+    "corp_name": "SMART",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 4457,
+    "id_object": 2059,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 123,
+    "id_morion": 76457,
+    "corp_name": "awedwer",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3022,
+    "id_object": 1201,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 19,
+    "id_morion": 102849,
+    "corp_name": "Предприятие инвалидов, больных гемофилией МИР ГП (Украина, Черкассы)",
+    "morion_name": "Предприятие инвалидов, больных гемофилией МИР ГП (Украина, Черкассы)",
+    "id_subject": 3608,
+    "id_object": 1778,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 232,
+    "id_morion": 76533,
+    "corp_name": "STEND_EKOSTATUS",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3135,
+    "id_object": 1314,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1138,
+    "id_morion": 76533,
+    "corp_name": "SE",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5362,
+    "id_object": 2265,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 118,
+    "id_morion": 76457,
+    "corp_name": "New_7",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3017,
+    "id_object": 1196,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 537,
+    "id_morion": 81879,
+    "corp_name": "test273",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3374,
+    "id_object": 1551,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 75,
+    "id_morion": 116346,
+    "corp_name": "Ильчак Маргарита Васильевна ФЛП (Украина, Мукачево)",
+    "morion_name": "Ильчак Маргарита Васильевна ФЛП (Украина, Мукачево)",
+    "id_subject": 2985,
+    "id_object": 1163,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1180,
+    "id_morion": 76533,
+    "corp_name": "КомТест",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5485,
+    "id_object": 2307,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 59,
+    "id_morion": 106458,
+    "corp_name": "Шмат Ирина Владимировна ФЛП (Украина, Первомайский)",
+    "morion_name": "Шмат Ирина Владимировна ФЛП (Украина, Первомайский)",
+    "id_subject": 2970,
+    "id_object": 1148,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 284,
+    "id_morion": 76533,
+    "corp_name": "wq",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3451,
+    "id_object": 1628,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 457,
+    "id_morion": 76533,
+    "corp_name": "zub12",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3254,
+    "id_object": 1432,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 642,
+    "id_morion": 76533,
+    "corp_name": "FFF",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3480,
+    "id_object": 1650,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 437,
+    "id_morion": 76533,
+    "corp_name": "ms",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3485,
+    "id_object": 1653,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 116,
+    "id_morion": 76533,
+    "corp_name": "T1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3034,
+    "id_object": 1213,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 845,
+    "id_morion": 76457,
+    "corp_name": "Бондарь - тест РП+",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 4039,
+    "id_object": 1919,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 695,
+    "id_morion": 76533,
+    "corp_name": "PRANK",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3630,
+    "id_object": 1803,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 516,
+    "id_morion": 81879,
+    "corp_name": "test250",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3327,
+    "id_object": 1505,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 229,
+    "id_morion": 76533,
+    "corp_name": "Zub3",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3132,
+    "id_object": 1311,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 434,
+    "id_morion": 76533,
+    "corp_name": "my",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3394,
+    "id_object": 1572,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 482,
+    "id_morion": 81879,
+    "corp_name": "test204",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3274,
+    "id_object": 1452,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 745,
+    "id_morion": 76533,
+    "corp_name": "zv",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3742,
+    "id_object": 1850,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 723,
+    "id_morion": 76533,
+    "corp_name": "zp",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3647,
+    "id_object": 1813,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 602,
+    "id_morion": 76533,
+    "corp_name": "BR",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3478,
+    "id_object": 1648,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 45,
+    "id_morion": 35020,
+    "corp_name": "Фарма-Кор ЛТД Фирма ООО (Украина, Луцк)",
+    "morion_name": "Фарма-Кор ЛТД Фирма ООО (Украина, Луцк)",
+    "id_subject": 2959,
+    "id_object": 1140,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1066,
+    "id_morion": 76533,
+    "corp_name": "REPLIKATE",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5009,
+    "id_object": 2189,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 335,
+    "id_morion": 76533,
+    "corp_name": "fr",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3202,
+    "id_object": 1381,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 479,
+    "id_morion": 81879,
+    "corp_name": "test201",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3271,
+    "id_object": 1449,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 312,
+    "id_morion": 76533,
+    "corp_name": "sj2",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3257,
+    "id_object": 1435,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 133,
+    "id_morion": 76533,
+    "corp_name": "NEW_CORPORATION",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3033,
+    "id_object": 1212,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 489,
+    "id_morion": 81879,
+    "corp_name": "test213",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3279,
+    "id_object": 1457,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 410,
+    "id_morion": 120364,
+    "corp_name": "test 7",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3461,
+    "id_object": 1635,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1057,
+    "id_morion": 76533,
+    "corp_name": "WOOLF",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 4979,
+    "id_object": 2180,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 48,
+    "id_morion": 87691,
+    "corp_name": "Медицина для Вас ООО (Украина, Донецк)",
+    "morion_name": "Медицина для Вас ООО (Украина, Донецк)",
+    "id_subject": 2951,
+    "id_object": 1105,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 251,
+    "id_morion": 76533,
+    "corp_name": "D",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3153,
+    "id_object": 1332,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 384,
+    "id_morion": 76533,
+    "corp_name": "FRAM",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3227,
+    "id_object": 1405,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 296,
+    "id_morion": 76533,
+    "corp_name": "wi",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3424,
+    "id_object": 1601,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 981,
+    "id_morion": 76457,
+    "corp_name": "Zub28",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 4620,
+    "id_object": 2101,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 209,
+    "id_morion": 76533,
+    "corp_name": "FRY_CORP",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3100,
+    "id_object": 1276,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 24,
+    "id_morion": 157617,
+    "corp_name": "Гузева Наталия Андреевна ФЛП (Украина, Луганск)",
+    "morion_name": "Гузева Наталия Андреевна ФЛП (Украина, Луганск)",
+    "id_subject": 2924,
+    "id_object": 1117,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1050,
+    "id_morion": 76533,
+    "corp_name": "REG",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4935,
+    "id_object": 2173,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 632,
+    "id_morion": 30894,
+    "corp_name": "test 12",
+    "morion_name": "Аптека Центральная Районная 6  КП (Украина, Лебедин)",
+    "id_subject": 3535,
+    "id_object": 1710,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 166,
+    "id_morion": 76533,
+    "corp_name": "FROST",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3072,
+    "id_object": 1251,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 11,
+    "id_morion": 8,
+    "corp_name": "ГОЛОСОВА Т.М. ФЛП",
+    "morion_name": "ГОЛОСОВА Т.М. ФЛП",
+    "id_subject": 3531,
+    "id_object": 1706,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 105,
+    "id_morion": 76457,
+    "corp_name": "POZITIF",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3009,
+    "id_object": 1189,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 658,
+    "id_morion": 76533,
+    "corp_name": "zuib16",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3537,
+    "id_object": 1712,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 568,
+    "id_morion": 81879,
+    "corp_name": "test308",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3486,
+    "id_object": 1654,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 82,
+    "id_morion": 132165,
+    "corp_name": "Пайш Иванна Ивановна ФЛП (Украина, Небылов)",
+    "morion_name": "Пайш Иванна Ивановна ФЛП (Украина, Небылов)",
+    "id_subject": 3185,
+    "id_object": 1364,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 351,
+    "id_morion": 76533,
+    "corp_name": "fg",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3261,
+    "id_object": 1439,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 342,
+    "id_morion": 76533,
+    "corp_name": "fi",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3209,
+    "id_object": 1388,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 44,
+    "id_morion": 20165,
+    "corp_name": "АУРА ООО 2 (Украина, Стрый)",
+    "morion_name": "АУРА ООО (Украина, Стрый)",
+    "id_subject": 2945,
+    "id_object": 1112,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 233,
+    "id_morion": 76533,
+    "corp_name": "EKOSTATUS_STEND",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3136,
+    "id_object": 1315,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 14,
+    "id_morion": 10,
+    "corp_name": "ЯНЫК Е.И. ФЛП",
+    "morion_name": "ЯНЫК Е.И. ФЛП",
+    "id_subject": 2947,
+    "id_object": 1102,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 483,
+    "id_morion": 81879,
+    "corp_name": "test205",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3275,
+    "id_object": 1453,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 120,
+    "id_morion": 76457,
+    "corp_name": "New_Way",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3019,
+    "id_object": 1198,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 517,
+    "id_morion": 81879,
+    "corp_name": "test251",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3328,
+    "id_object": 1506,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 117,
+    "id_morion": 76457,
+    "corp_name": "EKO_CORP",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3016,
+    "id_object": 1195,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 607,
+    "id_morion": 81879,
+    "corp_name": "errrrr",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3521,
+    "id_object": 1696,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 50,
+    "id_morion": 30895,
+    "corp_name": "Аптека 19 ООО (Украина, Глухов)",
+    "morion_name": "Аптека 19 ООО (Украина, Глухов)",
+    "id_subject": 2961,
+    "id_object": 1174,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 119,
+    "id_morion": 261598,
+    "corp_name": "Литвинчу",
+    "morion_name": "Литвинчук Сергей Викторович ФЛП (Украина, Семеновка)",
+    "id_subject": 3018,
+    "id_object": 1197,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 736,
+    "id_morion": 81879,
+    "corp_name": "test 31 ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3715,
+    "id_object": 1824,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 548,
+    "id_morion": 81879,
+    "corp_name": "test284",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3397,
+    "id_object": 1575,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 694,
+    "id_morion": 76533,
+    "corp_name": "TRAM",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3629,
+    "id_object": 1835,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 154,
+    "id_morion": 76533,
+    "corp_name": "POZITIF_INDASTRY",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3063,
+    "id_object": 1242,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 329,
+    "id_morion": 76533,
+    "corp_name": "fq",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3197,
+    "id_object": 1376,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 84,
+    "id_morion": 88944,
+    "corp_name": "Витафарм ООО (Украина, Днепропетровск)",
+    "morion_name": "Витафарм ООО (Украина, Днепропетровск)",
+    "id_subject": 3186,
+    "id_object": 1365,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 932,
+    "id_morion": 76533,
+    "corp_name": "nForce",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4375,
+    "id_object": 1160,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 525,
+    "id_morion": 81879,
+    "corp_name": "test260",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3336,
+    "id_object": 1514,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 257,
+    "id_morion": 76533,
+    "corp_name": "FREE_KASS",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3159,
+    "id_object": 1338,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1145,
+    "id_morion": 38,
+    "corp_name": "Brokery (Италия)",
+    "morion_name": "Brokery (Италия)",
+    "id_subject": 5392,
+    "id_object": 2272,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 275,
+    "id_morion": 76533,
+    "corp_name": "wg",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3180,
+    "id_object": 1359,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 702,
+    "id_morion": 76533,
+    "corp_name": "xo",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3634,
+    "id_object": 1806,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 444,
+    "id_morion": 120364,
+    "corp_name": "test 1",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3267,
+    "id_object": 1445,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 598,
+    "id_morion": 86834,
+    "corp_name": "test3",
+    "morion_name": "ДЮЗ ООО ПКП (Украина, Люботин)",
+    "id_subject": 3529,
+    "id_object": 1704,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 63,
+    "id_morion": 37,
+    "corp_name": "Софтинформ ООО (Украина, Киев)",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 2974,
+    "id_object": 1152,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 338,
+    "id_morion": 76533,
+    "corp_name": "RIDER",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3205,
+    "id_object": 1384,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 249,
+    "id_morion": 76533,
+    "corp_name": "wb",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3151,
+    "id_object": 1330,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 735,
+    "id_morion": 81879,
+    "corp_name": "test 30 ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3714,
+    "id_object": 1826,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 503,
+    "id_morion": 81879,
+    "corp_name": "test222",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3314,
+    "id_object": 1492,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 652,
+    "id_morion": 123,
+    "corp_name": "Lupin",
+    "morion_name": "Lupin (Индия)",
+    "id_subject": 3526,
+    "id_object": 1701,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 488,
+    "id_morion": 81879,
+    "corp_name": "test211",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3278,
+    "id_object": 1456,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 491,
+    "id_morion": 81879,
+    "corp_name": "test216",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3305,
+    "id_object": 1483,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 49,
+    "id_morion": 125650,
+    "corp_name": "Луговский Николай Николаевич ФЛП (Украина, Изюм)",
+    "morion_name": "Луговский Николай Николаевич ФЛП (Украина, Изюм)",
+    "id_subject": 2960,
+    "id_object": 1141,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 248,
+    "id_morion": 76533,
+    "corp_name": "PRO",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3150,
+    "id_object": 1329,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 487,
+    "id_morion": 81879,
+    "corp_name": "test210",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3303,
+    "id_object": 1481,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 486,
+    "id_morion": 81879,
+    "corp_name": "test209",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3302,
+    "id_object": 1480,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 501,
+    "id_morion": 81879,
+    "corp_name": "test229",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3312,
+    "id_object": 1490,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 6,
+    "id_morion": 120364,
+    "corp_name": "(Украина, Сторожинец)",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3385,
+    "id_object": 1562,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 365,
+    "id_morion": 76533,
+    "corp_name": "PASSLE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3295,
+    "id_object": 1473,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 35,
+    "id_morion": 131602,
+    "corp_name": "Мед-Сити  ЧП (Украина, Олешки)",
+    "morion_name": "Мед-Сити  ЧП (Украина, Олешки)",
+    "id_subject": 2935,
+    "id_object": 1130,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 363,
+    "id_morion": 76533,
+    "corp_name": "LITE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3262,
+    "id_object": 1440,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 533,
+    "id_morion": 81879,
+    "corp_name": "test269",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3342,
+    "id_object": 1520,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1196,
+    "id_morion": 76533,
+    "corp_name": "SLANDO",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5575,
+    "id_object": 2324,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 724,
+    "id_morion": 76533,
+    "corp_name": "za",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3652,
+    "id_object": 1814,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 264,
+    "id_morion": 76533,
+    "corp_name": "PORT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3416,
+    "id_object": 1593,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 339,
+    "id_morion": 76533,
+    "corp_name": "fu",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3206,
+    "id_object": 1385,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 733,
+    "id_morion": 76533,
+    "corp_name": "zg",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3710,
+    "id_object": 1832,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 357,
+    "id_morion": 76533,
+    "corp_name": "fl",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3482,
+    "id_object": 1672,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 142,
+    "id_morion": 74811,
+    "corp_name": "ДЮЗ ООО П124141",
+    "morion_name": "Ника-М ЧФ (Украина, Лохвица)",
+    "id_subject": 3053,
+    "id_object": 1233,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 83,
+    "id_morion": 85940,
+    "corp_name": "АИР  МПТП (Украина, Полтава)",
+    "morion_name": "АИР  МПТП (Украина, Полтава)",
+    "id_subject": 3167,
+    "id_object": 1346,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 197,
+    "id_morion": 76533,
+    "corp_name": "TEST_DISCO",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3091,
+    "id_object": 1267,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 273,
+    "id_morion": 76533,
+    "corp_name": "T5",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3178,
+    "id_object": 1357,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 245,
+    "id_morion": 76533,
+    "corp_name": "id_1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3147,
+    "id_object": 1326,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 331,
+    "id_morion": 76533,
+    "corp_name": "DOCK",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3198,
+    "id_object": 1377,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 17,
+    "id_morion": 144168,
+    "corp_name": "Набокова Надежда Петровна ФЛП (Украина, Апостолово)",
+    "morion_name": "Набокова Надежда Петровна ФЛП (Украина, Апостолово)",
+    "id_subject": 2921,
+    "id_object": 1127,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 683,
+    "id_morion": 76533,
+    "corp_name": "BALANCE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3620,
+    "id_object": 1794,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1093,
+    "id_morion": 76533,
+    "corp_name": "FORZA",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5141,
+    "id_object": 2216,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 374,
+    "id_morion": 76533,
+    "corp_name": "Zub9",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3361,
+    "id_object": 1538,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1096,
+    "id_morion": 76533,
+    "corp_name": "EgorTest",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5158,
+    "id_object": 2221,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 327,
+    "id_morion": 76533,
+    "corp_name": "dy",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3246,
+    "id_object": 1424,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 676,
+    "id_morion": 76533,
+    "corp_name": "WELL",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3607,
+    "id_object": 1777,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 41,
+    "id_morion": 85984,
+    "corp_name": "Греханова Людмила Алексеевна ФЛП (Украина, Хмельницкий)",
+    "morion_name": "Греханова Людмила Алексеевна ФЛП (Украина, Хмельницкий)",
+    "id_subject": 2943,
+    "id_object": 1842,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 268,
+    "id_morion": 76533,
+    "corp_name": "PRIME",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3173,
+    "id_object": 1352,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 170,
+    "id_morion": 76533,
+    "corp_name": "PRIMAL",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3075,
+    "id_object": 1254,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 85,
+    "id_morion": 9,
+    "corp_name": "ГОЛОСОВА Т.М. ФЛП (аптека 2)",
+    "morion_name": "ГОЛОСОВА Т.М. ФЛП (аптека 2)",
+    "id_subject": 2942,
+    "id_object": 1133,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 391,
+    "id_morion": 76533,
+    "corp_name": "Frame",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3263,
+    "id_object": 1441,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 202,
+    "id_morion": 76533,
+    "corp_name": "Rin",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3095,
+    "id_object": 1271,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1094,
+    "id_morion": 76533,
+    "corp_name": "Pashka",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5149,
+    "id_object": 2217,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 670,
+    "id_morion": 76533,
+    "corp_name": "WALKER",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3602,
+    "id_object": 1773,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 343,
+    "id_morion": 76533,
+    "corp_name": "LUX",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3210,
+    "id_object": 1389,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 690,
+    "id_morion": 76533,
+    "corp_name": "KROT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3627,
+    "id_object": 1801,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 151,
+    "id_morion": 76533,
+    "corp_name": "F1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3061,
+    "id_object": 1240,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 352,
+    "id_morion": 76533,
+    "corp_name": "RICK",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3281,
+    "id_object": 1459,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 648,
+    "id_morion": 81879,
+    "corp_name": "123",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3444,
+    "id_object": 1621,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 92,
+    "id_morion": 76457,
+    "corp_name": "New",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3001,
+    "id_object": 1182,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 846,
+    "id_morion": 76533,
+    "corp_name": "Zub24",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4044,
+    "id_object": 1946,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 373,
+    "id_morion": 76533,
+    "corp_name": "vol",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3360,
+    "id_object": 1537,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 752,
+    "id_morion": 76533,
+    "corp_name": "rav1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3754,
+    "id_object": 1868,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 510,
+    "id_morion": 81879,
+    "corp_name": "test244",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3321,
+    "id_object": 1499,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 713,
+    "id_morion": 81879,
+    "corp_name": "test 301 ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3407,
+    "id_object": 1584,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 484,
+    "id_morion": 81879,
+    "corp_name": "test206",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3276,
+    "id_object": 1454,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 292,
+    "id_morion": 76533,
+    "corp_name": "PRIMAL",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3420,
+    "id_object": 1597,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 266,
+    "id_morion": 76533,
+    "corp_name": "MISTAKE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3171,
+    "id_object": 1350,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 722,
+    "id_morion": 9990,
+    "corp_name": "Санитас ЧПФ (Украина, Житомир)",
+    "morion_name": "Санитас ЧПФ (Украина, Житомир)",
+    "id_subject": 3640,
+    "id_object": 1812,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 435,
+    "id_morion": 76533,
+    "corp_name": "mu",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3471,
+    "id_object": 1643,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 208,
+    "id_morion": 76533,
+    "corp_name": "rel_2",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3099,
+    "id_object": 1275,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 258,
+    "id_morion": 76533,
+    "corp_name": "WOLT_IND",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3160,
+    "id_object": 1339,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 427,
+    "id_morion": 9966,
+    "corp_name": "Волыньфарм ООО",
+    "morion_name": "Волыньфарм Фирма ООО (Украина, Луцк)",
+    "id_subject": 3287,
+    "id_object": 1465,
+    "id_application": 2,
+    "applications": null
+  },
+  {
+    "id_corp": 68,
+    "id_morion": 20,
+    "corp_name": "МАЛЬВА И К ООО (Украина, Старобельск)",
+    "morion_name": "МАЛЬВА И К ООО (Украина, Старобельск)",
+    "id_subject": 2979,
+    "id_object": 1157,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 66,
+    "id_morion": 87004,
+    "corp_name": "Иводент ООО (Украина, Ивано-Франковск)",
+    "morion_name": "Иводент ООО (Украина, Ивано-Франковск)",
+    "id_subject": 2977,
+    "id_object": 1155,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 534,
+    "id_morion": 81879,
+    "corp_name": "test270",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3343,
+    "id_object": 1521,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 712,
+    "id_morion": 81879,
+    "corp_name": "test 300 (Украина, Котельва)",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3350,
+    "id_object": 1528,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 210,
+    "id_morion": 76533,
+    "corp_name": "PT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3101,
+    "id_object": 1277,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 460,
+    "id_morion": 113678,
+    "corp_name": "Плиш Наталия Петровна 99",
+    "morion_name": "Плиш Наталия Петровна ФЛП (Украина, Золочев)",
+    "id_subject": 3364,
+    "id_object": 1541,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 367,
+    "id_morion": 76533,
+    "corp_name": "Test",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3353,
+    "id_object": 1531,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 669,
+    "id_morion": 76533,
+    "corp_name": "PROT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3601,
+    "id_object": 1772,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 413,
+    "id_morion": 76533,
+    "corp_name": "nq",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3470,
+    "id_object": 1669,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 581,
+    "id_morion": 81879,
+    "corp_name": "test326",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3492,
+    "id_object": 1671,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 207,
+    "id_morion": 76533,
+    "corp_name": "rel",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3098,
+    "id_object": 1274,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 686,
+    "id_morion": 76533,
+    "corp_name": "ST",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3623,
+    "id_object": 1797,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 606,
+    "id_morion": 76533,
+    "corp_name": "Zub14",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3520,
+    "id_object": 1840,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 699,
+    "id_morion": 76533,
+    "corp_name": "FLIME",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3633,
+    "id_object": 1805,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 100,
+    "id_morion": 76533,
+    "corp_name": "ZubQA",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3007,
+    "id_object": 1187,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 16,
+    "id_morion": 122990,
+    "corp_name": "Перфекс ООО (Украина, Подгайцы)",
+    "morion_name": "Перфекс ООО (Украина, Подгайцы)",
+    "id_subject": 2920,
+    "id_object": 1123,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 30,
+    "id_morion": 36,
+    "corp_name": "Адонис ЧП (Украина, Болехов)",
+    "morion_name": "Адонис ЧП (Украина, Болехов)",
+    "id_subject": 2930,
+    "id_object": 1113,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 235,
+    "id_morion": 76533,
+    "corp_name": "PITON_CORP",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3138,
+    "id_object": 1317,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 530,
+    "id_morion": 81879,
+    "corp_name": "test265",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3339,
+    "id_object": 1517,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 596,
+    "id_morion": 86834,
+    "corp_name": "test1",
+    "morion_name": "ДЮЗ ООО ПКП (Украина, Люботин)",
+    "id_subject": 3527,
+    "id_object": 1702,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 293,
+    "id_morion": 76533,
+    "corp_name": "wy",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3421,
+    "id_object": 1598,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 564,
+    "id_morion": 81879,
+    "corp_name": "test302",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3474,
+    "id_object": 1825,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 360,
+    "id_morion": 76533,
+    "corp_name": "BAGSTER",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3532,
+    "id_object": 1707,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1144,
+    "id_morion": 37,
+    "corp_name": "BMS  (США) 2",
+    "morion_name": "BMS  (США)",
+    "id_subject": 5391,
+    "id_object": 2271,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 684,
+    "id_morion": 76533,
+    "corp_name": "xr",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3621,
+    "id_object": 1795,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 282,
+    "id_morion": 76533,
+    "corp_name": "wl",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3449,
+    "id_object": 1626,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 372,
+    "id_morion": 76533,
+    "corp_name": "11111111111111111111111111111111",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3359,
+    "id_object": 1536,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1143,
+    "id_morion": 37,
+    "corp_name": "BMS  (США)",
+    "morion_name": "BMS  (США)",
+    "id_subject": 5390,
+    "id_object": 2270,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 964,
+    "id_morion": 76457,
+    "corp_name": "Zub27",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 4521,
+    "id_object": 2077,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 112,
+    "id_morion": 76457,
+    "corp_name": "DISCOUNT",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3013,
+    "id_object": 1193,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 471,
+    "id_morion": 2,
+    "corp_name": "njhjhjhj",
+    "morion_name": "name",
+    "id_subject": 3370,
+    "id_object": 1547,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 126,
+    "id_morion": 76457,
+    "corp_name": "qeqw3er",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3025,
+    "id_object": 1204,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 86,
+    "id_morion": 86927,
+    "corp_name": "Юрик Оксана Андриановна ФЛП (Украина, Николаев)",
+    "morion_name": "Юрик Оксана Андриановна ФЛП (Украина, Николаев)",
+    "id_subject": 2991,
+    "id_object": 1169,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 167,
+    "id_morion": 76533,
+    "corp_name": "WALT_COM",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3073,
+    "id_object": 1252,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 706,
+    "id_morion": 1,
+    "corp_name": "Abbott Lab. (США)666",
+    "morion_name": "Abbott Lab. (США)",
+    "id_subject": 2993,
+    "id_object": 1171,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 146,
+    "id_morion": 76533,
+    "corp_name": "primdas",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3056,
+    "id_object": 1236,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 709,
+    "id_morion": 76457,
+    "corp_name": "Софтинформ ООО (Украина, Киев)",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 2957,
+    "id_object": 1138,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 269,
+    "id_morion": 76533,
+    "corp_name": "wd",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3174,
+    "id_object": 1353,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 179,
+    "id_morion": 76533,
+    "corp_name": "MILLER",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3078,
+    "id_object": 1255,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 414,
+    "id_morion": 76533,
+    "corp_name": "zub11",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3483,
+    "id_object": 1651,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 323,
+    "id_morion": 76533,
+    "corp_name": "PROM",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3260,
+    "id_object": 1438,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 394,
+    "id_morion": 76533,
+    "corp_name": "LIFE_HACK",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3229,
+    "id_object": 1407,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 241,
+    "id_morion": 76533,
+    "corp_name": "OLD_TRANSPORT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3143,
+    "id_object": 1322,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 94,
+    "id_morion": 76457,
+    "corp_name": "Primal",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3003,
+    "id_object": 1184,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 565,
+    "id_morion": 81879,
+    "corp_name": "test303",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3475,
+    "id_object": 1670,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 277,
+    "id_morion": 76533,
+    "corp_name": "wj",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3182,
+    "id_object": 1361,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 2,
+    "id_morion": 261598,
+    "corp_name": "Литвинчук Сергей Викторович ФЛП (Украина, Семеновка)",
+    "morion_name": "Литвинчук Сергей Викторович ФЛП (Украина, Семеновка)",
+    "id_subject": 3188,
+    "id_object": 1367,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 110,
+    "id_morion": 76457,
+    "corp_name": "WALKER",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3012,
+    "id_object": 1192,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 183,
+    "id_morion": 76533,
+    "corp_name": "Reloc_corp",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3064,
+    "id_object": 1243,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 200,
+    "id_morion": 76533,
+    "corp_name": "SIRIUS",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3094,
+    "id_object": 1270,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 313,
+    "id_morion": 76533,
+    "corp_name": "tn",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3258,
+    "id_object": 1436,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 561,
+    "id_morion": 81879,
+    "corp_name": "test297",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3414,
+    "id_object": 1591,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 529,
+    "id_morion": 81879,
+    "corp_name": "test264",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3338,
+    "id_object": 1516,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 485,
+    "id_morion": 81879,
+    "corp_name": "test207",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3277,
+    "id_object": 1455,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1098,
+    "id_morion": 123492,
+    "corp_name": "ТОНУС-ПЛЮС ЧП (СКАРБ)",
+    "morion_name": "ТОНУС-ПЛЮС ЧП (Украина, Артемовск)",
+    "id_subject": 5168,
+    "id_object": 2223,
+    "id_application": 3,
+    "applications": null
+  },
+  {
+    "id_corp": 415,
+    "id_morion": 76533,
+    "corp_name": "nw",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3484,
+    "id_object": 1652,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 531,
+    "id_morion": 81879,
+    "corp_name": "test266",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3340,
+    "id_object": 1518,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 341,
+    "id_morion": 76533,
+    "corp_name": "t8",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3208,
+    "id_object": 1387,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 727,
+    "id_morion": 76533,
+    "corp_name": "zd",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3667,
+    "id_object": 1819,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 464,
+    "id_morion": 120364,
+    "corp_name": "нова",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3365,
+    "id_object": 1542,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 498,
+    "id_morion": 81879,
+    "corp_name": "test224",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3309,
+    "id_object": 1487,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 566,
+    "id_morion": 81879,
+    "corp_name": "test305",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3434,
+    "id_object": 1611,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 345,
+    "id_morion": 76533,
+    "corp_name": "fi",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3212,
+    "id_object": 1391,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 720,
+    "id_morion": 76533,
+    "corp_name": "pashabonus",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3574,
+    "id_object": 1746,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 621,
+    "id_morion": 76533,
+    "corp_name": "WWW",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3463,
+    "id_object": 1636,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 316,
+    "id_morion": 76533,
+    "corp_name": "ROL",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3190,
+    "id_object": 1369,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 28,
+    "id_morion": 7,
+    "corp_name": "ЖЕВЛАКОВА Л.С. ФЛП",
+    "morion_name": "ЖЕВЛАКОВА Л.С. ФЛП",
+    "id_subject": 2928,
+    "id_object": 1121,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 369,
+    "id_morion": 76533,
+    "corp_name": "Test Helen",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3355,
+    "id_object": 1566,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 262,
+    "id_morion": 76533,
+    "corp_name": "wa",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3164,
+    "id_object": 1343,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 717,
+    "id_morion": 76533,
+    "corp_name": "zy",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3571,
+    "id_object": 1785,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 242,
+    "id_morion": 76533,
+    "corp_name": "rp_1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3144,
+    "id_object": 1323,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 148,
+    "id_morion": 76533,
+    "corp_name": "alfabetagamma",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3058,
+    "id_object": 1237,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 141,
+    "id_morion": 74811,
+    "corp_name": "ДЮЗ ООО ПКП 23",
+    "morion_name": "Ника-М ЧФ (Украина, Лохвица)",
+    "id_subject": 3045,
+    "id_object": 1222,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 274,
+    "id_morion": 76533,
+    "corp_name": "t6",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3179,
+    "id_object": 1358,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 522,
+    "id_morion": 81879,
+    "corp_name": "test257",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3333,
+    "id_object": 1511,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 291,
+    "id_morion": 76533,
+    "corp_name": "Zub5",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3419,
+    "id_object": 1596,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 737,
+    "id_morion": 81879,
+    "corp_name": "test 32 ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3716,
+    "id_object": 1818,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 416,
+    "id_morion": 76533,
+    "corp_name": "ne",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3518,
+    "id_object": 1695,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 295,
+    "id_morion": 76533,
+    "corp_name": "wu",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3423,
+    "id_object": 1600,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1031,
+    "id_morion": 76533,
+    "corp_name": "PROTOTYPE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4846,
+    "id_object": 2154,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 276,
+    "id_morion": 76533,
+    "corp_name": "wh",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3181,
+    "id_object": 1360,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 508,
+    "id_morion": 81879,
+    "corp_name": "test242",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3319,
+    "id_object": 1497,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 638,
+    "id_morion": 81879,
+    "corp_name": "ЕВРАЗИЯ ООО test 8",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3441,
+    "id_object": 1618,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 377,
+    "id_morion": 76533,
+    "corp_name": "POST",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3220,
+    "id_object": 1399,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 987,
+    "id_morion": 9990,
+    "corp_name": "DOM",
+    "morion_name": "Санитас ЧПФ (Украина, Житомир)",
+    "id_subject": 4668,
+    "id_object": 2107,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 180,
+    "id_morion": 76533,
+    "corp_name": "PROMATE",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3035,
+    "id_object": 1214,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 348,
+    "id_morion": 76533,
+    "corp_name": "Zub8",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3215,
+    "id_object": 1394,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 47,
+    "id_morion": 13,
+    "corp_name": "ЧП Вовк",
+    "morion_name": "ЧП Вовк",
+    "id_subject": 3168,
+    "id_object": 1347,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 260,
+    "id_morion": 76533,
+    "corp_name": "t5",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3162,
+    "id_object": 1341,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 426,
+    "id_morion": 113678,
+    "corp_name": "Плиш Наталия Петровна 33",
+    "morion_name": "Плиш Наталия Петровна ФЛП (Украина, Золочев)",
+    "id_subject": 3239,
+    "id_object": 1417,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 81,
+    "id_morion": 11,
+    "corp_name": "ЯНЫК Е.И. ФЛП (аптека 2)",
+    "morion_name": "ЯНЫК Е.И. ФЛП (аптека 2)",
+    "id_subject": 2940,
+    "id_object": 1111,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 346,
+    "id_morion": 76533,
+    "corp_name": "fp",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3213,
+    "id_object": 1392,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 743,
+    "id_morion": 76533,
+    "corp_name": "zub23",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3733,
+    "id_object": 1838,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 91,
+    "id_morion": 76457,
+    "corp_name": "PRANA_CORP",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3000,
+    "id_object": 1181,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 502,
+    "id_morion": 81879,
+    "corp_name": "test300",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3313,
+    "id_object": 1491,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 88,
+    "id_morion": 88867,
+    "corp_name": "Т-ФАРМ ЧП (Украина, Дрогобыч)",
+    "morion_name": "Т-ФАРМ ЧП (Украина, Дрогобыч)",
+    "id_subject": 2994,
+    "id_object": 1172,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1142,
+    "id_morion": 76533,
+    "corp_name": "PRO123",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5389,
+    "id_object": 2269,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 129,
+    "id_morion": 76457,
+    "corp_name": "Back To The Future",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3029,
+    "id_object": 1208,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 267,
+    "id_morion": 76533,
+    "corp_name": "BAIRON",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3172,
+    "id_object": 1351,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 582,
+    "id_morion": 81879,
+    "corp_name": "test327",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3493,
+    "id_object": 1660,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 93,
+    "id_morion": 76457,
+    "corp_name": "ТЕСТОВАЯ КОРПОРАЦИЯ",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3002,
+    "id_object": 1183,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 407,
+    "id_morion": 76533,
+    "corp_name": "NERO",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3458,
+    "id_object": 1633,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 300,
+    "id_morion": 76533,
+    "corp_name": "sitya",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3456,
+    "id_object": 1676,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 252,
+    "id_morion": 76533,
+    "corp_name": "d_2",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3154,
+    "id_object": 1333,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 308,
+    "id_morion": 76533,
+    "corp_name": "BOR",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3433,
+    "id_object": 1610,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 891,
+    "id_morion": 76533,
+    "corp_name": "Pavel",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4227,
+    "id_object": 2003,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 340,
+    "id_morion": 76533,
+    "corp_name": "Zub7",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3207,
+    "id_object": 1386,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 139,
+    "id_morion": 76533,
+    "corp_name": "D1",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3043,
+    "id_object": 1220,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 408,
+    "id_morion": 120364,
+    "corp_name": "test 5",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3459,
+    "id_object": 1634,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 309,
+    "id_morion": 76533,
+    "corp_name": "ae",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3184,
+    "id_object": 1363,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 515,
+    "id_morion": 81879,
+    "corp_name": "test249",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3326,
+    "id_object": 1504,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 718,
+    "id_morion": 76533,
+    "corp_name": "zu",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3572,
+    "id_object": 1745,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 383,
+    "id_morion": 76533,
+    "corp_name": "4G",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3226,
+    "id_object": 1404,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1131,
+    "id_morion": 104356,
+    "corp_name": "Ромашка ООО (Украина, Самбор)79878",
+    "morion_name": "Ромашка ООО (Украина, Самбор)",
+    "id_subject": 5330,
+    "id_object": 2258,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 467,
+    "id_morion": 120364,
+    "corp_name": "new name 1",
+    "morion_name": "Букатар Валерий Остапович ФЛП (Украина, Сторожинец)",
+    "id_subject": 3368,
+    "id_object": 1545,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 490,
+    "id_morion": 81879,
+    "corp_name": "test215",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3304,
+    "id_object": 1482,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1141,
+    "id_morion": 37,
+    "corp_name": "OPEN",
+    "morion_name": "BMS  (США)",
+    "id_subject": 5388,
+    "id_object": 2268,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 578,
+    "id_morion": 81879,
+    "corp_name": "test323",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3489,
+    "id_object": 1657,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 259,
+    "id_morion": 76533,
+    "corp_name": "t4",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3161,
+    "id_object": 1340,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 279,
+    "id_morion": 76533,
+    "corp_name": "Zub4",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3446,
+    "id_object": 1623,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 361,
+    "id_morion": 76533,
+    "corp_name": "fx",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3217,
+    "id_object": 1396,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 371,
+    "id_morion": 493550,
+    "corp_name": "lihouygytftudrytrytd",
+    "morion_name": "Жевлакова Любовь Сергеевна ФЛП (Украина, Стаханов)",
+    "id_subject": 3357,
+    "id_object": 1534,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 333,
+    "id_morion": 76533,
+    "corp_name": "Zub6",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3200,
+    "id_object": 1379,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 368,
+    "id_morion": 76533,
+    "corp_name": "test",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3354,
+    "id_object": 1532,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 330,
+    "id_morion": 76533,
+    "corp_name": "FROST",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3247,
+    "id_object": 1425,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 344,
+    "id_morion": 76533,
+    "corp_name": "fo",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3211,
+    "id_object": 1390,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 477,
+    "id_morion": 81879,
+    "corp_name": "test",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3270,
+    "id_object": 1448,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 707,
+    "id_morion": 76533,
+    "corp_name": "Zub21",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 2995,
+    "id_object": 1176,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 99,
+    "id_morion": 76457,
+    "corp_name": "New_1",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3006,
+    "id_object": 1186,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 43,
+    "id_morion": 235792,
+    "corp_name": "Черноскутов Сергей Вячеславович ФЛП (Украина, Артемовск)",
+    "morion_name": "Черноскутов Сергей Вячеславович ФЛП (Украина, Артемовск)",
+    "id_subject": 2949,
+    "id_object": 1116,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 685,
+    "id_morion": 76533,
+    "corp_name": "prananew",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3622,
+    "id_object": 1796,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 334,
+    "id_morion": 76533,
+    "corp_name": "fe",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3201,
+    "id_object": 1380,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 58,
+    "id_morion": 261691,
+    "corp_name": "Микитич Татьяна Алексеевна ФЛП (Украина, Великий Березный)",
+    "morion_name": "Микитич Татьяна Алексеевна ФЛП (Украина, Великий Березный)",
+    "id_subject": 2969,
+    "id_object": 1147,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 302,
+    "id_morion": 76533,
+    "corp_name": "TRACK",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3428,
+    "id_object": 1605,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 542,
+    "id_morion": 81879,
+    "corp_name": "test278",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3378,
+    "id_object": 1555,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 184,
+    "id_morion": 76533,
+    "corp_name": "MIF",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3079,
+    "id_object": 1256,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1019,
+    "id_morion": 76533,
+    "corp_name": "Sergiy",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4790,
+    "id_object": 2142,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 158,
+    "id_morion": 76533,
+    "corp_name": "Light",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3066,
+    "id_object": 1245,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 132,
+    "id_morion": 76533,
+    "corp_name": "Mig",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3032,
+    "id_object": 1211,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 347,
+    "id_morion": 76533,
+    "corp_name": "fa",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3214,
+    "id_object": 1393,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 322,
+    "id_morion": 76533,
+    "corp_name": "FROM",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3245,
+    "id_object": 1423,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 212,
+    "id_morion": 76533,
+    "corp_name": "PN",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3115,
+    "id_object": 1294,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 576,
+    "id_morion": 81879,
+    "corp_name": "test321",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3487,
+    "id_object": 1655,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 36,
+    "id_morion": 187812,
+    "corp_name": "АЕ-КОМ ООО (Украина, Харьков)",
+    "morion_name": "АЕ-КОМ ООО (Украина, Харьков)",
+    "id_subject": 2936,
+    "id_object": 1114,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 222,
+    "id_morion": 76533,
+    "corp_name": "FILIN",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3125,
+    "id_object": 1304,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 560,
+    "id_morion": 81879,
+    "corp_name": "test296",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3413,
+    "id_object": 1590,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 220,
+    "id_morion": 76533,
+    "corp_name": "yi",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3123,
+    "id_object": 1302,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 156,
+    "id_morion": 71601,
+    "corp_name": "ababagalamaga15889",
+    "morion_name": "Аптека 226  ООО (Украина, Запорожье)",
+    "id_subject": 3065,
+    "id_object": 1244,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 523,
+    "id_morion": 81879,
+    "corp_name": "test258",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3334,
+    "id_object": 1512,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1124,
+    "id_morion": 76533,
+    "corp_name": "PRANA_ZERO",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5301,
+    "id_object": 2251,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 663,
+    "id_morion": 1,
+    "corp_name": "Abbott Lab.",
+    "morion_name": "Abbott Lab. (США)",
+    "id_subject": 3589,
+    "id_object": 1760,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 539,
+    "id_morion": 81879,
+    "corp_name": "test275",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3376,
+    "id_object": 1553,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 128,
+    "id_morion": 76457,
+    "corp_name": "ROAD",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3028,
+    "id_object": 1207,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 382,
+    "id_morion": 76533,
+    "corp_name": "CORD",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3225,
+    "id_object": 1839,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 468,
+    "id_morion": 2,
+    "corp_name": "new 22",
+    "morion_name": "name",
+    "id_subject": 3352,
+    "id_object": 1530,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 599,
+    "id_morion": 76533,
+    "corp_name": "PRO_MAN",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3534,
+    "id_object": 1709,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 580,
+    "id_morion": 81879,
+    "corp_name": "test345",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3491,
+    "id_object": 1659,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 237,
+    "id_morion": 76533,
+    "corp_name": "wx",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3139,
+    "id_object": 1318,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1129,
+    "id_morion": 76533,
+    "corp_name": "BONUSES",
+    "morion_name": "Морион ООО (Украина, Киев)",
+    "id_subject": 5322,
+    "id_object": 2256,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 246,
+    "id_morion": 76533,
+    "corp_name": "wv",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3148,
+    "id_object": 1327,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 42,
+    "id_morion": 9197,
+    "corp_name": "Юнсон ООО (Украина, Полтава)",
+    "morion_name": "Юнсон ООО (Украина, Полтава)",
+    "id_subject": 2958,
+    "id_object": 1139,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 480,
+    "id_morion": 81879,
+    "corp_name": "test202",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3272,
+    "id_object": 1450,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 1042,
+    "id_morion": 76533,
+    "corp_name": "TVShow",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 4889,
+    "id_object": 2165,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 137,
+    "id_morion": 76533,
+    "corp_name": "A5",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3041,
+    "id_object": 1225,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 261,
+    "id_morion": 76533,
+    "corp_name": "TRACK",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3163,
+    "id_object": 1342,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 923,
+    "id_morion": 76457,
+    "corp_name": "ANDREY",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 4321,
+    "id_object": 2033,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 509,
+    "id_morion": 81879,
+    "corp_name": "test243",
+    "morion_name": "ЕВРАЗИЯ ООО (Украина, Котельва)",
+    "id_subject": 3320,
+    "id_object": 1498,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 271,
+    "id_morion": 76533,
+    "corp_name": "TEST123",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3176,
+    "id_object": 1355,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 310,
+    "id_morion": 76533,
+    "corp_name": "at",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3242,
+    "id_object": 1420,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 239,
+    "id_morion": 76533,
+    "corp_name": "BARNY",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3141,
+    "id_object": 1320,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 109,
+    "id_morion": 76457,
+    "corp_name": "New_2",
+    "morion_name": "Софтинформ ООО (Украина, Киев)",
+    "id_subject": 3011,
+    "id_object": 1191,
+    "id_application": 1,
+    "applications": null
+  },
+  {
+    "id_corp": 317,
+    "id_morion": 76533,
+    "corp_name": "DISCOUNT",
+    "morion_name": "МОРИОН ООО (Украина, Киев)",
+    "id_subject": 3243,
+    "id_object": 1421,
+    "id_application": 1,
+    "applications": null
+  }
+]
