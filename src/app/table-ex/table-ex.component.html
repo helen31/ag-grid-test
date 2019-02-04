@@ -1,11 +1,28 @@
 <button (click)="getSelectedRows()">Отримати вибрані рядки</button>
+<div class='selected-column' *ngIf="colList">
+  <h4>Доступні стовпці</h4>
+  <ul>
+    <li *ngFor="let col of colList">
+      <input
+        #myEntityCheckbox
+        [id]="col['id']"
+        type='checkbox'
+        [name]="col['field']"
+        (click)='toggle(col)'
+        checked
+      />
+      <label [attr.for]="col['id']">{{col['headerName']}}</label>
+    </li>
+  </ul>
+</div>
 <ag-grid-angular
   #agGrid
   [localeText]="localeText"
-  style="width: 830px; height: 500px;"
+  style="width: 100%; height: 500px;"
   class="ag-theme-balham"
   [rowData]="row"
   [columnDefs]="column"
   rowSelection="multiple"
->
+  suppressDragLeaveHidesColumns>
 </ag-grid-angular>
+

@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit, ViewChild} from '@angular/core';
 import {CustomHeaderGroupComponent} from './custom-header-group/custom-header-group.component';
+import { AgGridNg2 } from 'ag-grid-angular';
 
 @Component({
   selector: 'app-custom-header-group-table',
@@ -16,14 +17,11 @@ export class CustomHeaderGroupTableComponent implements OnInit {
     children: [
       {
         headerName: 'ID',
-        field: 'id_corp',
-        width: 150
+        field: 'id_corp'
       },
       {
         headerName: 'Назва',
         field: 'corp_name',
-        width: 150,
-        sortable: true,
         filter: true,
         checkboxSelection: true
       }
@@ -34,21 +32,19 @@ export class CustomHeaderGroupTableComponent implements OnInit {
     children: [
       {
         headerName: 'ID Моріон',
-        field: 'id_morion',
-        width: 150
+        field: 'id_morion'
       },
       {
         headerName: 'Назва Моріон',
-        field: 'morion_name',
-        width: 150
+        field: 'morion_name'
       }
     ]
   }];
+  @ViewChild('agGrid') agGrid: AgGridNg2;
 
   constructor() {
     this.frameworkComponents = { customHeaderGroupComponent: CustomHeaderGroupComponent };
     this.defaultColDef = {
-      width: 100,
       resizable: true
     };
   }
@@ -70,4 +66,14 @@ export class CustomHeaderGroupTableComponent implements OnInit {
     req.send();
   }
 
+  getSelectedRows_1(): void {
+    const selectedNodes = this.agGrid.api.getSelectedNodes();
+    const selectedData = selectedNodes.map( node => node.data );
+    const selectedDataStringPresentation = selectedData.map( node => node.id_corp + '   ' + node.corp_name).join(',  ');
+    if (selectedData.length === 0) {
+      alert('Виберіть рядок');
+      return;
+    }
+    alert(`Вибрані рядки: ${selectedDataStringPresentation}`);
+  }
 }
