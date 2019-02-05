@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./custom-header-group.component.scss']
 })
 export class CustomHeaderGroupComponent implements OnInit {
-  private params: any;
+  params: any;
   private expandState: string;
 
   constructor() { }
